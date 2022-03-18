@@ -1,6 +1,6 @@
 #  界面
 # 顯示結果:
-![dd6418e86fe4e408e208795275c1b6a2 1](https://user-images.githubusercontent.com/74965449/153378244-f4eaf577-3fa1-4e6b-b258-c6d0d56cb5f4.gif)
+![image](https://user-images.githubusercontent.com/74965449/158995924-9fab6464-6d8f-43c9-ae5f-e1736dcc0a38.png)
 
 
 ## 步驟一:
